@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "ea17d1cd46ea50a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a47978996ac12e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9baebdf0c785d1e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2826baf0ac7f7dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c95b0e7f97b569d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e2d44c71b8089a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "0bbe3dfe8bba3bc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "c5ded0e22131ae7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43b6597ece409c20",
+    "type": "split",
+    "children": [
+      {
+        "id": "8939824926e0d730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "131fd55bae732f78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "95ba4d5b3bce72fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "a92d107112fdf6d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "6ab25aa94dbfb205",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "5f63a9a745d0fb5e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6ab25aa94dbfb205",
+  "lastOpenFiles": [
+    "Note/blog/2025-02-04.md",
+    "Note/node_modules/sitemap/node_modules/@types/node/dns/promises.d.ts",
+    "Note/node_modules/sitemap/node_modules/@types/node/dns",
+    "Note/node_modules/sitemap/node_modules/@types/node/timers/promises.d.ts",
+    "Note/node_modules/sitemap/node_modules/@types/node/timers",
+    "Note/node_modules/sitemap/node_modules/@types/node/assert/strict.d.ts",
+    "Note/node_modules/sitemap/node_modules/@types/node/assert",
+    "Note/node_modules/svgo/node_modules/commander/typings/index.d.ts",
+    "Note/node_modules/svgo/node_modules/commander/typings",
+    "Note/node_modules/terser/node_modules/commander/typings/index.d.ts",
+    "Note/node_modules/terser/node_modules/commander/typings",
+    "Note/blog/2019-05-29-long-blog-post.md",
+    "Note/blog/2019-05-28-first-blog-post.md",
+    "Note/node_modules/lines-and-columns/README.md",
+    "Note/node_modules/@babel/plugin-transform-nullish-coalescing-operator/README.md",
+    "Note/node_modules/@babel/plugin-transform-new-target/README.md",
+    "Note/node_modules/@babel/plugin-transform-dynamic-import/README.md",
+    "Note/node_modules/@babel/plugin-transform-async-to-generator/README.md",
+    "Note/node_modules/@babel/preset-typescript/README.md",
+    "Note/node_modules/raw-body/node_modules/bytes/Readme.md",
+    "Note/node_modules/raw-body/node_modules/bytes/History.md",
+    "Note/node_modules/raw-body/SECURITY.md",
+    "Note/node_modules/raw-body/README.md",
+    "Note/node_modules/raw-body/HISTORY.md",
+    "Note/node_modules/@docusaurus/preset-classic/README.md",
+    "Note/node_modules/file-loader/node_modules/ajv/README.md",
+    "Note/node_modules/fork-ts-checker-webpack-plugin/node_modules/ajv/README.md",
+    "Note/node_modules/@csstools/postcss-is-pseudo-class/node_modules/postcss-selector-parser/README.md",
+    "Note/node_modules/css-has-pseudo/node_modules/postcss-selector-parser/README.md",
+    "Note/node_modules/@csstools/postcss-scope-pseudo-class/node_modules/postcss-selector-parser/API.md",
+    "Note/node_modules/fork-ts-checker-webpack-plugin/node_modules/fs-extra/CHANGELOG.md",
+    "Note/node_modules/fork-ts-checker-webpack-plugin/node_modules/cosmiconfig/README.md",
+    "Note/node_modules/hpack.js/node_modules/readable-stream/GOVERNANCE.md",
+    "Note/node_modules/@docusaurus/types/node_modules/webpack-merge/README.md",
+    "Note/node_modules/compression/node_modules/debug/CHANGELOG.md",
+    "Note/node_modules/@docusaurus/logger/demo.png",
+    "Note/node_modules/serve-index/public/icons/page_world.png",
+    "Note/node_modules/serve-index/public/icons/page_word.png",
+    "Note/node_modules/serve-index/public/icons/page_white_zip.png",
+    "Note/node_modules/serve-index/public/icons/page_white_world.png",
+    "Note/node_modules/serve-index/public/icons/page_white_word.png",
+    "Note/node_modules/serve-index/public/icons/page_white_wrench.png",
+    "Note/node_modules/serve-index/public/icons/page_white_width.png",
+    "Note/node_modules/serve-index/public/icons/page_white_visualstudio.png",
+    "Note/node_modules/serve-index/public/icons/page_white_tux.png"
+  ]
+}

@@ -21,3 +21,13 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+nogikun:
+  name: nogikun
+  title: Student in the AI Strategy course at IPUT
+  url: https://github.com/nogikun
+  image_url: https://github.com/nogikun.png
+  page: true
+  socials:
+    github: nogikun
+    x: nogikun_
